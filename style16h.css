@@ -1,0 +1,49 @@
+body{
+    font-family: poppins;
+    margin: 0;
+}
+
+.logo >img{
+    width: 75px;
+    height: 57px;
+}
+
+.logo{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.groupeCree{
+    margin-top: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.membre{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 42px;
+}
+
+.membre >img{
+    margin-left: 10px;
+}
+
+.bouton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.boutonContinuer{
+    height: 45px;
+    width: 350px;
+    background-color: #0bab5e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 8px;
+}
